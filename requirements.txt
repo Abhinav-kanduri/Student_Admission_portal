@@ -1,0 +1,25 @@
+# install the follwing in jupyter notebook
+
+import pandas as pd
+import numpy as np
+import numpy as np
+import pandas as pd
+import seaborn as sns
+import matplotlib.pyplot as plt
+from sklearn.model_selection import train_test_split
+from sklearn.preprocessing import StandardScaler
+from sklearn import svm
+from sklearn.svm import SVR
+from sklearn.linear_model import LinearRegression
+from sklearn.linear_model import LogisticRegression
+from sklearn.ensemble import RandomForestRegressor
+from sklearn.ensemble import GradientBoostingRegressor
+from sklearn.metrics import accuracy_score
+import joblib
+import pickle
+
+# install the following in pycharm 
+import streamlit as st
+import pickle
+import sklearn
+import pandas as pd
